@@ -7,9 +7,9 @@ y demuestra quién va a la cabeza en cuanto a coeficiente intelectual se refiere
 ## Integrantes del equipo
 
 [Miguel Águeda Leal , q-103-1 , usuario "miguelagueda1".  
-Violeta Carrascal Acebrón , q-103-1, usuaria "Violetacarrascal".   
+Violeta Carrascal Acebrón , q-103-1, usuaria "Violetacarrascal".
 Jorge Escobar Arenas , q-103-1, usuario "Escobar-klk".
 
 ## Objetivos del trabajo
 
-Conseguir 6 créditos.
+Reflejar en este cada uno de los conocimientos adquiridos, y con ello conseguir que el usuario pase un rato agradable.
